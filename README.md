@@ -1,6 +1,3 @@
-# rubyjs-lib
-
-> rubyjs-lib project 
 
 ## Build Setup
 
